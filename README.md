@@ -4,14 +4,6 @@ Sou formado em **Ciência da Computação** (Bacharelado pela UNIP) e em **Redes
 
 Sempre em busca de novos conhecimentos, meu objetivo é continuar me aperfeiçoando tanto no âmbito pessoal quanto profissional, acompanhando as constantes evoluções da tecnologia e contribuindo para soluções cada vez mais eficientes.
 
-## 📊 Estatísticas do GitHub
-
-[![Rodrigo GitHub Stats](https://github-readme-stats.vercel.app/api?usernameue&theme=dracula](https://github.com/rodrigofsj)
-
-## 🚀 Tecnologias Utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langsrigofsj&layout=compact&theme=dracula](https://github.com/rodrigofsj)
-
 ## 💼 Experiência
 
 Atualmente atuo como **Analista de Sustentação I**, com experiência em:
