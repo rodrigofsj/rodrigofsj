@@ -20,8 +20,3 @@ Atualmente atuo como **Analista de Sustentação I**, com experiência em:
 🎓 Bacharelado em Ciência da Computação - UNIP
 
 🎓 Técnico em Redes de Computadores - SENAI
-
-## 📫 Contato
-
-- LinkedIn: (adicione seu perfil)
-- E-mail: (adicione seu e-mail)
